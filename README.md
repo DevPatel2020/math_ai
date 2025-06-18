@@ -1,4 +1,4 @@
-# 🧠 Math Note AI – AI-Powered Math Canvas App
+# 🧠 Math AI – AI-Powered Math Canvas App
 
 This project is a clone of Apple’s iPad Math Notes using **React, FastAPI**, and **Google Gemini AI**. It lets users draw math expressions, which are then processed by AI to render beautiful LaTeX and solve equations.
 
