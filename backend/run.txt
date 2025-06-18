@@ -1,7 +1,8 @@
-cd calc-be
+cd backend
 venv\Scripts\Activate
 python main.py
 
-cd calc-fe
+cd frontend
+npm install
 npm run dev
 
